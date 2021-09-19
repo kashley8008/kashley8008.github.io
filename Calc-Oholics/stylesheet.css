@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+
+body {
+    margin: 10px;
+    padding: 0px;
+    background-color: #2e3440;
+    font-family: 'Barlow', sans-serif, arial;
+}
+
+.heading { 
+    margin: 10x;
+    padding: 50px;
+    background-color: #4c566a;
+    color: #eceff4;
+    border-radius: 50px;
+}
+
+small {
+    font-size: 55%;
+    color: #d8dee9;
+}
+
+.chop_01 {
+    margin: 50px;
+    padding: 10px;
+	height:5.3in;
+    background-color: white;
+    color: #3b4252;
+    border-radius: 10px;
+}
+
+#wheel {
+	float: left;
+	padding: 10px;
+}
+
+#persons {
+	float: left;
+	padding: 20px;
+}
+
+#persons #person {
+	float: left;
+	padding: 20px;	
+}
